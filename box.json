@@ -1,0 +1,48 @@
+{
+    "name":"CFPAYMENT",
+    "version":"1.0.0",
+    "author":"Brian Ghidinelli",
+    "slug":"cfpayment",
+    "type":"modules",
+    "homepage":"http://www.coldbox.org",
+    "documentation":"http://wiki.coldbox.org",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/Ortus-Solutions/cfpayment"
+    },
+    "shortDescription":"ColdFusion payment processing library makes plumbing e-commerce apps easy.",
+    "license":[
+        {
+            "type":"Apache2",
+            "url":"http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    ],
+    "contributors":[
+        "Brian Ghidinelli",
+        "Mark Mazelin"
+    ],
+    "engines":[
+        {
+            "type":"railo",
+            "version":">4.1"
+        },
+        {
+            "type":"lucee",
+            "version":">4.5"
+        },
+        {
+            "type":"adobe",
+            "version":">9.02"
+        }
+    ],
+    "dependencies":{
+        
+    },
+    "ignore":[
+        "**/.*",
+        "*/.md"
+    ],
+    "installPaths":{
+        
+    }
+}

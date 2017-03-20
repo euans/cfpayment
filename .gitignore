@@ -1,0 +1,14 @@
+# Global + IDE Stuff
+.DS_Store
+.sass-cache
+.settings/**
+settings.xml
+.project
+/web.config
+"Icon\r"
+WEB-INF/**
+*.cache.*
+.idea
+Icon?
+# Logs
+logs/**
